@@ -1,0 +1,9 @@
+#configuration
+config.json
+
+#libarary
+node_modules
+
+#setup
+package-lock.json
+package.json
